@@ -1,0 +1,33 @@
+id,name,country/id
+bank_001_0,Banco de Chile,base.cl
+bank_001_1,Banco Edwards,base.cl
+bank_001_2,Citi,base.cl
+bank_001_3,Atlas,base.cl
+bank_001_4,CrediChile,base.cl
+bank_009_0,Banco Internacional,base.cl
+bank_012_0,Banco Estado,base.cl
+bank_014_0,Scotiabank Chile,base.cl
+bank_016_0,Banco De Credito e Inversiones (BCI),base.cl
+bank_016_1,Tbanc,base.cl
+bank_016_2,BCI Nova,base.cl
+bank_027_0,Corpbanca,base.cl
+bank_027_1,Banco Condell,base.cl
+bank_028_0,Banco Bice,base.cl
+bank_031_0,Hsbc Bank,base.cl
+bank_037_0,Banco Santander-Chile,base.cl
+bank_037_1,Banefe,base.cl
+bank_039_0,Banco Itaú Chile,base.cl
+bank_049_0,Banco Security,base.cl
+bank_051_0,Banco Falabella,base.cl
+bank_052_0,Deutsche Bank,base.cl
+bank_053_0,Banco Ripley,base.cl
+bank_054_0,Rabobank Chile (Ex Hns Banco),base.cl
+bank_055_0,Banco Consorcio (Ex Banco Monex),base.cl
+bank_056_0,Banco Penta,base.cl
+bank_057_0,Banco Paris,base.cl
+bank_504_0,Banco Bilbao Vizcaya Argentaria Chile (BBVA),base.cl
+bank_504_1,BBVA Express,base.cl
+bank_059_0,Banco Btg Pactual Chile,base.cl
+bank_017_0,Banco Do Brasil S.A.,base.cl
+bank_041_0,Jp Morgan Chase Bank  N. A.,base.cl
+bank_043_0,Banco De La Nacion Argentina,base.cl
