@@ -4,6 +4,8 @@
     'summary': 'Plan de cuentas, impuestos, posiciones fiscales y reporte de impuestos para Chile, '
                'sin l10n_cl ni l10n_latam.',
     'version': '18.0.1.0.0',
+    'description': 'Plan de cuentas, impuestos y posiciones fiscales de Chile sin l10n_cl ni '
+                   'l10n_latam. Ver README.md para la documentación completa.',
     'category': 'Accounting/Localizations/Account Charts',
     'countries': ['cl'],
     'license': 'LGPL-3',
