@@ -93,3 +93,5 @@ Basado en la plantilla contable de `l10n_cl` de Odoo 18 (autor original:
 Blanco Martín & Asociados), distribuida bajo LGPL-3.
 
 Licencia: LGPL-3.
+
+© 2026 Turing Forge SpA. Distribuido bajo LGPL-3; vea los archivos `LICENSE` (LGPL-3) y `LICENSE.GPL` (GPL-3).
