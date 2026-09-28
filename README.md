@@ -94,4 +94,20 @@ Blanco Martín & Asociados), distribuida bajo LGPL-3.
 
 Licencia: LGPL-3.
 
+## Pruebas automatizadas
+
+La carpeta `tests/` carga la plantilla «Chile (TF)» en una compañía nueva y
+verifica: que se creen todas sus cuentas, impuestos, grupos y posiciones
+fiscales; la configuración de la compañía (impuestos por defecto, redondeo,
+país fiscal y cuentas por defecto); los códigos SII y la compatibilidad con el
+DTE de los impuestos de venta; las retenciones; el cálculo de impuestos; las
+etiquetas del reporte; los bancos, y que la localización oficial no esté
+instalada. Deben correrse en una base exclusiva para pruebas:
+
+```bash
+./odoo-bin -c /etc/odoo.conf -d odoo_tests --without-demo=all \
+    -i tf_l10n_cl --test-enable --test-tags /tf_l10n_cl \
+    --http-port=8070 --logfile=/tmp/odoo_tests.log --stop-after-init
+```
+
 © 2026 Turing Forge SpA. Distribuido bajo LGPL-3; vea los archivos `LICENSE` (LGPL-3) y `LICENSE.GPL` (GPL-3).
